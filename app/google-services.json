@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "499415217441",
+    "project_id": "planory-vet",
+    "storage_bucket": "planory-vet.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499415217441:android:2b5dd7a9d95b81f7813a60",
+        "android_client_info": {
+          "package_name": "com.example.planory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvyd1EMcWvb1XNZJBKH0t_QjVq6SB_PHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

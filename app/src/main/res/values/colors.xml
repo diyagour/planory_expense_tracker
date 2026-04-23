@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App background -->
+    <color name="bg_main">#FFF6E5</color>
+    <color name="cream">#FFF6E5</color>
+
+    <!-- Cards -->
+    <color name="card_white">#FFFFFF</color>
+
+    <!-- Pastels -->
+    <color name="pastel_yellow">#FFD28D</color>
+    <color name="pastel_green">#CFF3E5</color>
+    <color name="pastel_blue">#E5ECFF</color>
+    <color name="pastel_pink">#FFE5EC</color>
+
+    <!-- Text -->
+    <color name="text_primary">#2E2E2E</color>
+    <color name="text_secondary">#777777</color>
+
+    <!-- Base -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Theme required -->
+    <color name="primary">#FFD28D</color>
+    <color name="accent">#FFD28D</color>
+    <color name="dark_green">#1B5E20</color>
+    <color name="dark_beige">#D2B48C</color>
+    <color name="pastel_red">#FFD6D6</color>
+    <color name="dark_orange">#FF8C00</color>
+    <color name="card_dark_bg">#E6E6E6</color>
+    <color name="dark_yellow">#C49000</color>
+    <color name="pastel_purple">#E1BEE7</color>
+    <color name="pastel_orange">#FFE0B2</color>
+    <color name="pastel_teal">#B2DFDB</color>
+    <color name="pastel_lavender">#D1C4E9</color>
+    <color name="pastel_peach">#FFCCBC</color>
+    <color name="pastel_mint">#C5E1A5</color>
+    <color name="pastel_blue_dark">#90CAF9</color>      <!-- Darker blue for Food -->
+    <color name="pastel_beige_dark">#D7BFA6</color>     <!-- Darker beige for Rent -->
+
+</resources>
